@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm Sandeep Chigurupalli</h1>
 <h3 align="center">A passionate developer building cool things on the web</h3>
 
 <p align="center">
@@ -66,13 +66,13 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sandeep-chigurupalli-87a2112a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=39FF14" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:sandeep3j06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=39FF14" />
   </a>
   <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
@@ -88,3 +88,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
+
