@@ -14,7 +14,7 @@
 💻 Passionate about Backend Development and Software Engineering.
 ⚙️ Skilled in Java, Python, FastAPI, React, MySQL, and Docker.
 🚀 Building scalable REST APIs and AI-powered applications.
-📚 Currently learning Spring Boot, System Design, and DSA.
+📚 Currently learning System Design, and DSA.
 🌱 Open to Software Engineering Internship opportunities.
 ---
 
