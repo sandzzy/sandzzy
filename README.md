@@ -13,12 +13,13 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **your-current-project**
-- 🌱 I'm currently learning **new-tech-here**
-- 👯 I'm looking to collaborate on **open-source-projects**
-- 💬 Ask me about **your-skills**
-- ⚡ Fun fact: **something-fun-about-you**
-
+👋 Hi, I'm Sandeep Chigurupalli.
+🎓 B.Tech Computer Science Engineering student (2023–2027).
+💻 Passionate about Backend Development and Software Engineering.
+⚙️ Skilled in Java, Python, FastAPI, React, MySQL, and Docker.
+🚀 Building scalable REST APIs and AI-powered applications.
+📚 Currently learning Spring Boot, System Design, and DSA.
+🌱 Open to Software Engineering Internship opportunities.
 ---
 
 ### 🛠️ Tech Stack
@@ -55,13 +56,7 @@
 
 ---
 
-### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=neon&hide_border=true" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -69,17 +64,8 @@
   <a href="https://www.linkedin.com/in/sandeep-chigurupalli-87a2112a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=39FF14" />
-  </a>
   <a href="mailto:sandeep3j06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=39FF14" />
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
